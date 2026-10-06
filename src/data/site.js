@@ -4,7 +4,7 @@
 export const profile = {
   name: 'Bhargavi Rao Bondada',
   email: 'bhargaviraobonda@u.boisestate.edu',
-  linkedin: 'https://www.linkedin.com/in/Bhargavi-Rao',
+  linkedin: 'https://www.linkedin.com/in/b-bhargavi-rao',
   github: 'https://github.com/BBhargaviRao',
   location: 'Boise, ID · open to relocation',
   education: 'MS Computer Science (HCI), Boise State University, Dec 2026',
